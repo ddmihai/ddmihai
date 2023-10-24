@@ -1,4 +1,2 @@
-### Hi there 👋
-## I'm Daniel, 
-
-
+# Hi there 👋
+## I'm Daniel, your web developer
